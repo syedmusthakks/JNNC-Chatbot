@@ -1,0 +1,18 @@
+{
+    "default_1": {
+        "answer": "Sorry, i did'nt get you",
+        "unique_key": ""
+    },
+    "hi": {
+        "answer": "Hello",
+        "unique_key": ""
+    },
+    "how are you": {
+        "answer": "Am fine and what about you?",
+        "unique_key": ""
+    },
+    "location": {
+        "answer": "https://www.google.com/maps/place/Jawaharlal+Nehru+National+College+Of+Engineering/@13.9663417,75.5789757,15z/data=!4m5!3m4!1s0x0:0xfb0cf81a73b0ba59!8m2!3d13.9663417!4d75.5789757",
+        "unique_key": ""
+    }
+}
